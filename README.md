@@ -1,7 +1,7 @@
 <h1 align="center">Teste de Software Automatizado</h1>
 
 <p align="center">
- <a href="sobre">Sobre</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
